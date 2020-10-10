@@ -1,0 +1,43 @@
+Please enter a two integer number from 2 to 10 (use a space to separte them)
+2 10
+Please enter an input (or x to exist)
+0
+Input: 0 of base: 2 equal to output: 0 of base: 10
+Please enter an input (or x to exist)
+1110
+Input: 1110 of base: 2 equal to output: 14 of base: 10
+Please enter an input (or x to exist)
+11111111
+Input: 11111111 of base: 2 equal to output: 255 of base: 10
+Please enter an input (or x to exist)
+x
+
+Please enter a two integer number from 2 to 10 (use a space to separte them)
+10 2
+Please enter an input (or x to exist)
+0
+Input: 0 of base: 10 equal to output: 0 of base: 2
+Please enter an input (or x to exist)
+1024
+Input: 1024 of base: 10 equal to output: 10000000000 of base: 2
+Please enter an input (or x to exist)
+255
+Input: 255 of base: 10 equal to output: 11111111 of base: 2
+Please enter an input (or x to exist)
+x
+
+
+Please enter a two integer number from 2 to 10 (use a space to separte them)
+8 2
+Please enter an input (or x to exist)
+0
+Input: 0 of base: 8 equal to output: 0 of base: 2
+Please enter an input (or x to exist)
+0377
+Input: 0377 of base: 8 equal to output: 11111111 of base: 2
+Please enter an input (or x to exist)
+177777
+Input: 177777 of base: 8 equal to output: 1111111111111111 of base: 2
+Please enter an input (or x to exist)
+x
+

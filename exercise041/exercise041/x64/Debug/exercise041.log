@@ -1,0 +1,5 @@
+﻿  exercise041.cpp
+C:\Users\sefun\ECE_2514\exercise041\exercise041\exercise041.cpp(13,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\sefun\ECE_2514\exercise041\exercise041\exercise041.cpp(11,35): warning C4101: 'imaginaryPart': unreferenced local variable
+C:\Users\sefun\ECE_2514\exercise041\exercise041\exercise041.cpp(11,25): warning C4101: 'realPart': unreferenced local variable
+  exercise041.vcxproj -> C:\Users\sefun\ECE_2514\exercise041\x64\Debug\exercise041.exe

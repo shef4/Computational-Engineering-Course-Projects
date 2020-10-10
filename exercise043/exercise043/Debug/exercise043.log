@@ -1,0 +1,13 @@
+﻿  exercise043.cpp
+C:\Users\sefun\ECE_2514\exercise043\exercise043\exercise043.cpp(13,10): error C2374: 'a': redefinition; multiple initialization
+C:\Users\sefun\ECE_2514\exercise043\exercise043\exercise043.cpp(8): message : see declaration of 'a'
+C:\Users\sefun\ECE_2514\exercise043\exercise043\exercise043.cpp(14,10): error C2374: 'b': redefinition; multiple initialization
+C:\Users\sefun\ECE_2514\exercise043\exercise043\exercise043.cpp(9): message : see declaration of 'b'
+C:\Users\sefun\ECE_2514\exercise043\exercise043\exercise043.cpp(18,10): error C2374: 'a': redefinition; multiple initialization
+C:\Users\sefun\ECE_2514\exercise043\exercise043\exercise043.cpp(8): message : see declaration of 'a'
+C:\Users\sefun\ECE_2514\exercise043\exercise043\exercise043.cpp(19,10): error C2374: 'b': redefinition; multiple initialization
+C:\Users\sefun\ECE_2514\exercise043\exercise043\exercise043.cpp(9): message : see declaration of 'b'
+C:\Users\sefun\ECE_2514\exercise043\exercise043\exercise043.cpp(24,10): error C2374: 'a': redefinition; multiple initialization
+C:\Users\sefun\ECE_2514\exercise043\exercise043\exercise043.cpp(8): message : see declaration of 'a'
+C:\Users\sefun\ECE_2514\exercise043\exercise043\exercise043.cpp(25,10): error C2374: 'b': redefinition; multiple initialization
+C:\Users\sefun\ECE_2514\exercise043\exercise043\exercise043.cpp(9): message : see declaration of 'b'

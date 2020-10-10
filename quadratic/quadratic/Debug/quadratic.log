@@ -1,0 +1,2 @@
+﻿  quadratic.cpp
+C:\Users\sefun\ECE_2514\quadratic\quadratic\quadratic.cpp(13): error C4700: uninitialized local variable 'x' used

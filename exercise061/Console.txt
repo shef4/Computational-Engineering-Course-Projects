@@ -1,0 +1,5 @@
+Alphabet length is 0
+Alphabet length is now 26
+The Last Digit value is 9
+The location of 'yz01' in the alphanumeric string is 24
+Here is a substring of the alphanumaric String z012

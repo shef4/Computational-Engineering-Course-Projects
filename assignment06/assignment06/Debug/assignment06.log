@@ -1,0 +1,4 @@
+﻿  assignment06.cpp
+C:\Users\sefun\ECE_2514\assignment06\assignment06\assignment06.cpp(12,12): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\sefun\ECE_2514\assignment06\assignment06\assignment06.cpp(12,49): warning C4804: '<=': unsafe use of type 'bool' in operation
+  assignment06.vcxproj -> C:\Users\sefun\ECE_2514\assignment06\Debug\assignment06.exe

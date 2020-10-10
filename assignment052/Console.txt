@@ -1,0 +1,16 @@
+Enter an integer n>0 followed by n integer grades between 0 and 100:
+11
+10
+78
+66
+91
+88
+82
+75
+87
+90
+68
+86
+Average grade: 74.6364
+Minimum grade: 10
+Maximum grade: 91

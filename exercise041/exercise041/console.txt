@@ -1,0 +1,4 @@
+Enter a coeffiecent for a,b and c with spaces1 2 3
+Roots are real and different.
+Root 1 = -nan(ind)
+Root 2 = -nan(ind)

@@ -1,0 +1,23 @@
+zeroes to exit):5.5 -20.7 10.7
+(enter zeroes to exit and 1 to re enter your numbers):0
+ The real roots are 3.14506 and 0.618574
+  
+  For the quadratic ax^2 + bx + c = 0, enter a, b and c separated by spaces (enter zeroes to exit):2 -11 5
+(enter zeroes to exit and 1 to re enter your numbers):0
+ The real roots are 5 and 0.5
+
+ zeroes to exit):-4 12 -9
+(enter zeroes to exit and 1 to re enter your numbers):0
+ The single real root is 1.5
+
+ For the quadratic ax^2 + bx + c = 0, enter a, b and c separated by spaces (enter zeroes to exit):1 2 1
+(enter zeroes to exit and 1 to re enter your numbers):0
+ The single real root is -1
+
+ For the quadratic ax^2 + bx + c = 0, enter a, b and c separated by spaces (enter zeroes to exit):10.1 20.2 30.3
+(enter zeroes to exit and 1 to re enter your numbers):0
+ The complex roots are -1 +/- 1.41421 i
+
+ For the quadratic ax^2 + bx + c = 0, enter a, b and c separated by spaces (enter zeroes to exit):2 3 4
+(enter zeroes to exit and 1 to re enter your numbers):0
+ The complex roots are -0.75 +/- 1.19896 i

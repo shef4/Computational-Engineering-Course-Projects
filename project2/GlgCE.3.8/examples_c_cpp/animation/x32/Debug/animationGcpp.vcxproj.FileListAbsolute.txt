@@ -1,0 +1,2 @@
+C:\Users\sefun\ECE_2514\project2\GlgCE.3.8\examples_c_cpp\animation\x32\Debug\animationGcpp.exe
+C:\Users\sefun\ECE_2514\project2\GlgCE.3.8\examples_c_cpp\animation\x32\Debug\animationGcpp.pdb

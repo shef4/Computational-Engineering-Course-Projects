@@ -1,0 +1,4 @@
+﻿  exercise041.cpp
+C:\Users\sefun\ECE_2514\exercise041\exercise041\exercise041.cpp(19,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\sefun\ECE_2514\exercise041\exercise041\exercise041.cpp(20,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  exercise041.vcxproj -> C:\Users\sefun\ECE_2514\exercise041\Debug\exercise041.exe
