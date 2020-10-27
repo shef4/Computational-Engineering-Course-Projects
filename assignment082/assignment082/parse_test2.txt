@@ -1,0 +1,40 @@
+# Sample flight plan language program
+
+	int x          0
+	int y          3
+	int z          2    # Sample flight plan language program
+	int loop_count 4
+	int delay      3
+
+start:
+	cmd <initialize>
+	cmd <arm>
+	cmd <takeoff>
+	cmd <move %x %y %z>	# Inserts x, y, z values
+	nop delay    # Sample flight plan language program
+
+right:
+	add x 2# Sample flight plan language program
+	cmd <move %x %y %z>
+	nop delay
+
+left: # Sample flight plan language program
+	sub x 2
+	cmd <move %x %y %z>
+	nop delay
+	cmd <disarm>
+
+loop_check:
+	sub loop_count 1
+	int z          2
+	cmd <disarm>
+	end
+	int loop_count 4
+	cmp loop_count 0
+	bne right
+	# Sample flight plan language program
+done: cmd <move %x %y %z>
+	cmd <land>
+	cmd <disarm>
+	end
+	# Sample flight plan language program

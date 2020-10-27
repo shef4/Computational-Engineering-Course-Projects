@@ -1,0 +1,92 @@
+Enter the FPL file name without the .txt suffix: parse_test1
+# Sample flight plan language program
+
+        int x          0
+                token: "int"
+                token: "x"
+                token: "0"
+        int y          3
+                token: "int"
+                token: "y"
+                token: "3"
+        int z          2
+                token: "int"
+                token: "z"
+                token: "2"
+        int loop_count 4
+                token: "int"
+                token: "loop_count"
+                token: "4"
+        int delay      3
+                token: "int"
+                token: "delay"
+                token: "3"
+
+start:
+                token: "start:"
+        cmd <initialize>
+                token: "cmd"
+                token: " <initialize> "
+        cmd <arm>
+                token: "cmd"
+                token: " <arm> "
+        cmd <takeoff>
+                token: "cmd"
+                token: " <takeoff> "
+        cmd <move %x %y %z>     # Inserts x, y, z values
+                token: "cmd"
+                token: " <move %x %y %z>        # Inserts x, y, z values "
+        nop delay
+                token: "nop"
+                token: "delay"
+
+right:
+                token: "right:"
+        add x 2
+                token: "add"
+                token: "x"
+                token: "2"
+        cmd <move %x %y %z>
+                token: "cmd"
+                token: " <move %x %y %z> "
+        nop delay
+                token: "nop"
+                token: "delay"
+
+left:
+                token: "left:"
+        sub x 2
+                token: "sub"
+                token: "x"
+                token: "2"
+        cmd <move %x %y %z>
+                token: "cmd"
+                token: " <move %x %y %z> "
+        nop delay
+                token: "nop"
+                token: "delay"
+
+loop_check:
+                token: "loop_check:"
+        sub loop_count 1
+                token: "sub"
+                token: "loop_count"
+                token: "1"
+        cmp loop_count 0
+                token: "cmp"
+                token: "loop_count"
+                token: "0"
+        bne right
+                token: "bne"
+                token: "right"
+
+done:
+                token: "done:"
+        cmd <land>
+                token: "cmd"
+                token: " <land> "
+        cmd <disarm>
+                token: "cmd"
+                token: " <disarm> "
+        end
+                token: "end"

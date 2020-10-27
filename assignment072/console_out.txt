@@ -1,0 +1,24 @@
+Please enter employees first name, last name and browser minutes (add a space inbetween values)
+Diana    Ince      31
+Please enter employees first name, last name and browser minutes (add a space inbetween values)
+Sue      Parsons   17
+Please enter employees first name, last name and browser minutes (add a space inbetween values)
+Rachel   Davidson  41
+Please enter employees first name, last name and browser minutes (add a space inbetween values)
+Justin   Blake    132
+Please enter employees first name, last name and browser minutes (add a space inbetween values)
+Emma     McDonald 103
+Please enter employees first name, last name and browser minutes (add a space inbetween values)
+Dan      Terry     62
+Please enter employees first name, last name and browser minutes (add a space inbetween values)
+Amelia   Morgan     0
+Please enter employees first name, last name and browser minutes (add a space inbetween values)
+Colin    Forsyth   45
+Please enter employees first name, last name and browser minutes (add a space inbetween values)
+Caroline Marshall 198
+Please enter employees first name, last name and browser minutes (add a space inbetween values)
+Boris    Pullman   21
+
+ Here are the employees whos browser time is twice that of the average.
+Firstname: Justin Lastname: Blake Browser Time (minutes): 132
+Firstname: Caroline Lastname: Marshall Browser Time (minutes): 198

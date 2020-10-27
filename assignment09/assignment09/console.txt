@@ -1,0 +1,3 @@
+isIntConstant("557") should be true
+isLabelDefinition("abc:") should be true
+2 errors occurred
